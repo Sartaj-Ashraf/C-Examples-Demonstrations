@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "FUNCTION_DATA_BASE.C": "cpp",
+        "random": "c"
+    },
+    "editor.cursorStyle": "line-thin"
+}
